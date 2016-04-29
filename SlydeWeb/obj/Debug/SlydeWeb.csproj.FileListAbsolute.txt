@@ -1,0 +1,6 @@
+c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\obj\Debug\SlydeWeb.csprojResolveAssemblyReference.cache
+c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\bin\SlydeWeb.dll.config
+c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\bin\SlydeWeb.dll
+c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\bin\SlydeWeb.pdb
+c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\obj\Debug\SlydeWeb.dll
+c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\obj\Debug\SlydeWeb.pdb
