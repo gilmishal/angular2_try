@@ -25,8 +25,15 @@
     <Content Include="app.css" />
     <Content Include="app\components\app.component.html" />
     <Content Include="index.html" />
-    <Content Include="styles.css" />
+    <None Include="styles.scss" />
+    <Content Include="systemjs.config.js" />
     <Content Include="web.config" />
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="app\components\app.component.ts" />
@@ -36,12 +43,6 @@
     <Content Include="tsconfig.json" />
     <Content Include="typings.json" />
     <Content Include="package.json" />
-    <None Include="web.Debug.config">
-      <DependentUpon>web.config</DependentUpon>
-    </None>
-    <None Include="web.Release.config">
-      <DependentUpon>web.config</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="app\models\" />
