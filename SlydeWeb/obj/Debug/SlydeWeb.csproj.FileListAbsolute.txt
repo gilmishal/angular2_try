@@ -3,3 +3,4 @@ c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\bin\SlydeWe
 c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\bin\SlydeWeb.pdb
 c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\obj\Debug\SlydeWeb.dll
 c:\users\gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\obj\Debug\SlydeWeb.pdb
+C:\Users\Gil\documents\visual studio 2015\Projects\SlydeWeb\SlydeWeb\bin\SlydeWeb.dll.config
