@@ -9,8 +9,8 @@ import {HomeComponent} from './home/home.component';
     template: `
      <h1>{{title}}</h1>
      <nav>
-        <a routerLink="['/login']">login</a>
-        <a routerLink="['/home']">home</a>
+        <a [routerLink]="['/login']">login</a>
+        <a [routerLink]="['/home']">home</a>
      </nav>
      <router-outlet></router-outlet>
   `, directives: [ROUTER_DIRECTIVES]
